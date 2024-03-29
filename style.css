@@ -1,12 +1,12 @@
 header{
-    background-color: #383D58;
+    background-color: #5A7EFD;
     color: white;
     display: flex;
     justify-content: space-around;
 }
 
 .cabecalho-imagem{
-    width: 20%;
+    width: 75%;
 }
 
 .cabecalho-item-liste{
@@ -19,4 +19,13 @@ header{
 * {
     margin: 0
     padding: 0
+}
+
+
+.conteudo {
+    margin-top: 20px;
+    text-align: center;
+    padding: 50px;
+    font-family: "Arial Black", Arial, sans-serif;
+    color:#5A7EFD;
 }
