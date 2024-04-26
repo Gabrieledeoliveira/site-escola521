@@ -1,5 +1,5 @@
 .cabecalho {
-    background-color: #383D58;
+    background-color: #5A7EFD;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -20,4 +20,20 @@
 * {
     margin: 0;
     padding: 0;
+}
+
+.escola-conteudo{
+    width: 35%;
+}
+
+.escola-texto-um {
+    color: #5A7EFD;
+}
+
+.escola-texto-dois {
+    color: #5A7EFD;
+}
+
+.escola-imagem{
+    width:25%;
 }
