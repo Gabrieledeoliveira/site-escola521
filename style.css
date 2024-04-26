@@ -7,7 +7,7 @@
 }
 
 .cabecalho-imagem {
-    width: 18%;
+    width: 30%;
 }
 
 .cabecalho-lista-item {
@@ -22,18 +22,22 @@
     padding: 0;
 }
 
+.escola-imagem{
+    width:35%;
+    }
+
+.escola-titulo {
+    padding: 24px 0;
+}
+
+.escola{
+    color: #5a7efd;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    padding: 24px 0;
+}
+
 .escola-conteudo{
     width: 35%;
-}
-
-.escola-texto-um {
-    color: #5A7EFD;
-}
-
-.escola-texto-dois {
-    color: #5A7EFD;
-}
-
-.escola-imagem{
-    width:25%;
-}
+    }
