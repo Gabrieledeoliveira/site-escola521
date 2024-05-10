@@ -5,11 +5,15 @@
 
 .cabecalho {
     background-color: #5A7EFD;
-    color: white;
+    color: rgb(255, 255, 255);
     display: flex;
     justify-content: space-around;
     padding: 18px 0;
     }
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
 
 .cabecalho-imagem {
     width: 30%;
@@ -44,5 +48,9 @@
 
 .escola-div-conteudo{
     width: 35%;
+}
+
+.estudante-imagem{
+    width: 130px;
 }
     
