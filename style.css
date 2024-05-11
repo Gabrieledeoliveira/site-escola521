@@ -53,4 +53,30 @@ body {
 .estudante-imagem{
     width: 130px;
 }
-    
+
+.estudante-icone{
+    width: 24px;
+}
+
+.estudante-div{
+    text-align: center;
+}
+
+.estudante-titulo{
+    text-align: center;
+    padding: 50px 0;
+}
+
+.estudante-todo{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    margin: 20px 0;
+}
+
+.estudante{
+    text-align: center;
+}
+
+.rodape{
+    background-color: black;
+}
